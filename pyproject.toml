@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "ib-target-intelligence"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = []
+[project.scripts]
+ib-target-intelligence = "ib_target_intelligence.cli:main"
+[tool.setuptools]
+packages = ["ib_target_intelligence"]

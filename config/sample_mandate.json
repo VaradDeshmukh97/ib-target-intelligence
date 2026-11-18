@@ -1,0 +1,9 @@
+{
+ "mandate_name":"Synthetic industrial technology buy-side mandate",
+ "sector":"Industrial Technology", "geography":"United States",
+ "revenue_min_usd_m":50, "revenue_max_usd_m":250,
+ "growth_floor_pct":0, "growth_target_pct":25,
+ "ebitda_margin_floor_pct":0, "ebitda_margin_target_pct":25,
+ "weights":{"sector":0.30,"geography":0.15,"revenue_scale":0.25,"revenue_growth":0.15,"ebitda_margin":0.15},
+ "contact_roles":["Chief Executive Officer","Chief Financial Officer","Head of Corporate Development"]
+}

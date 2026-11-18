@@ -1,0 +1,13 @@
+company_id,company_name,sector,geography,revenue_usd_m,ebitda_usd_m,revenue_growth_pct,description,website
+TGT001,Northstar Components,Industrial Technology,United States,125.4,18.6,16.1,Power management components and industrial systems,https://northstar.example.invalid
+TGT002,Meridian Grid Systems,Industrial Technology,United States,88.1,7.9,11.4,Grid monitoring and distributed energy control equipment,https://meridian.example.invalid
+TGT003,Bluehaven Diagnostics,Healthcare Technology,United States,61.7,9.3,13.8,Diagnostic instruments and laboratory workflow products,https://bluehaven.example.invalid
+TGT004,Westlake Automation,Industrial Technology,United States,212.0,31.8,8.2,Factory automation and industrial robotics components,https://westlake.example.invalid
+TGT005,Solace Mobility Systems,Mobility,United States,145.2,12.4,21.0,Vehicle electronics and fleet systems,https://solace.example.invalid
+TGT006,Ironwood Controls,Industrial Technology,Canada,74.5,10.1,18.6,Industrial control systems and sensors,https://ironwood.example.invalid
+TGT007,Clearpath Materials,Industrial Technology,United States,42.0,5.0,24.5,Specialty materials for industrial applications,https://clearpath.example.invalid
+TGT008,Atlas Power Devices,Industrial Technology,United States,176.8,14.1,5.3,Power conversion and electrical equipment,https://atlas.example.invalid
+TGT009,Redwood Process Solutions,Industrial Technology,United States,265.0,39.5,14.2,Industrial process optimization systems,https://redwood.example.invalid
+TGT010,Harborline Software,Enterprise Software,United States,96.0,14.8,27.1,Workflow software for industrial customers,https://harborline.example.invalid
+TGT011,Sunpeak Energy Services,Clean Energy,United States,118.0,8.2,32.0,Energy efficiency and services platform,https://sunpeak.example.invalid
+TGT012,Granite Instruments,Industrial Technology,United States,101.3,22.0,9.7,Measurement and test instruments for manufacturers,https://granite.example.invalid
